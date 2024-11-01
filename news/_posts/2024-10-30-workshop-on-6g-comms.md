@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop on 6G Communications"
 date: 2024-10-30 12:00:00 +0000
-subtitle: "Join us on Thursday 21st November for our 1-day workshop"
+subtitle: "Join us on Wednesday 20th November for our 1-day workshop"
 background: '/img/telecoms-tower.jpg'
 ---
 
@@ -10,7 +10,7 @@ background: '/img/telecoms-tower.jpg'
 
 ## Key information
 
-* **Date**: Thursday 21st November 2024
+* **Date**: Wednesday 20th November 2024 (*date changed from Thu 21st*)
 * **Time**: 9:30am to 5:00pm (exact timing TBC)
 * **Location**: PZA/124, Piazza Building, Campus East, University of York
 
@@ -23,7 +23,7 @@ We hope to welcome you to our workshop, sharing our research on 6G communication
 If you are interested in attending, please complete the form linked below, and we will be in touch to share arrangements in the next couple of weeks.
 
 <div class="clearfix">
-    <a class="btn btn-primary float-left" href="https://forms.gle/Q7Df6Q1bFtTW7ciP9" target="_blank">Register Interest</a>
+    <a class="btn btn-primary float-left" href="https://forms.gle/Q7Df6Q1bFtTW7ciP9" target="_blank">Register Interest &rarr;</a>
 </div>
 
 <br />
