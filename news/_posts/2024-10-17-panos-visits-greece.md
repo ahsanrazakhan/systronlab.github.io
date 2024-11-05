@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Panos visits the Electrical Engineering School of the University of Patras (Greece)" # The main article title
-date: 2024-10-17 12:00:00 +0000 # Article date, in the form YYYY-MM-DD HH-MM-SS +0000
+date: 2024-11-04 12:00:00 +0000 # Article date, in the form YYYY-MM-DD HH-MM-SS +0000
 subtitle: "An Introduction to Continuous-Variable Quantum Key Distribution"
 author: Panos Papanastasiou
 ---
