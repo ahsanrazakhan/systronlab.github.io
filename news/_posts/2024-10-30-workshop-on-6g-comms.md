@@ -3,7 +3,7 @@ layout: post
 title: "Workshop on 6G Communications"
 date: 2024-10-30 12:00:00 +0000
 subtitle: "Join us on Wednesday 20th November for our 1-day workshop"
-background: '/img/telecoms-tower.jpg'
+background: '/img/6g-workshop.jpg'
 ---
 
 **Join us for a 1-day workshop on 6G communications, held in the Piazza Building at the University of York.**
