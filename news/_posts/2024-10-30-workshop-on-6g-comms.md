@@ -28,22 +28,26 @@ If you are interested in attending, please complete the form linked below, and w
 
 <br />
 
-## Call for presentations
-
-You are more than welcome to attend without presenting, but if you are undertaking research in the 6G/future communications space, and you would be happy to share your research at the workshop, we would love for you to share your work with us.
-
-We are currently looking for the following presentation types:
-
-* Shorter presentations (e.g. 20 minutes)
-* Longer presentations (e.g. 40-60 minutes)
-* Tutorial sessions (e.g. 60 minutes)
-
-Please let us know if you intend to present [by completing the registration form](https://forms.gle/Q7Df6Q1bFtTW7ciP9) or by contacting Dr Poonam Yadav [(poonam.yadav@york.ac.uk)](mailto:poonam.yadav@york.ac.uk).
-
 ---
 
 ## Agenda
 
-*To be confirmed, based on submitted presentations.*
-
-* 09:30: **Welcome and Introduction** (Dr Poonam Yadav)
+* 09:00: *Arrivals*
+* 09:30: **Welcome and Introduction** ([Dr Poonam Yadav](https://www.cs.york.ac.uk/people/yadav))
+* 10:00: **Brief Introduction** ([Dr Rob Davis](https://www.cs.york.ac.uk/people/robdavis))
+* 10:30: **Brief Introduction** ([Dr Arjuna Sathiaseelan](https://www.gci.cam.ac.uk/people/members/dr-arjuna-sathiaseelan))
+* 10:45: **Data Capsule** (Vijon Baraku)
+* 11:00: *Break*
+* 11:30: **Deep Reinforcement Learning Based Resource Allocation Approach for Wireless Networks** (Dr Kavan Fatehi)
+* 12:00: **The Use of Formal Verification in Security Protocols and QoS Analysis for O-RAN Applications** (Dr Kangfeng Ye)
+* 12:30: *Lunch Break*
+* 13:30: **6G Energy Benchmarking** (Dr Olufemi Olayiwola)
+* 14:00: **Digital Twin for Wireless Communication Systems** (Ahsan Raza Khan)
+* 14:30: **CV-QKD for Constrained Scenarios** (Dr Panos Papanastasiou)
+* 15:00: *Break*
+* 15:30: **Thread/Matter Network Vulnerability** (Anthony Moulds / Peter Gillingham)
+* 16:00: **Hybrid Intelligent Fast Failure Recovery Framework for Enhanced Resilience in Software Defined Networks** (Rehab Alawadh)
+* 16:20: **IoT Interoperability** (Evangelos Barmpas)
+* 16:40: **Impact of Custom Endorsement Policies on Hyperledger Fabric Performance in Autonomous Vehicle Data-Sharing Platforms** (Reem Alhabib)
+* 17:00: **Measuring and Twinning the Internet's Architecture** (Joshua Levett)
+* 17:30: *Close*
