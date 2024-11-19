@@ -11,7 +11,7 @@ background: '/img/6g-workshop.jpg'
 ## Key information
 
 * **Date**: Wednesday 20th November 2024 (*date changed from Thu 21st*)
-* **Time**: 9:30am to 5:00pm (exact timing TBC)
+* **Time**: 9:30am to 5:30pm
 * **Location**: PZA/124, Piazza Building, Campus East, University of York
 
 We hope to be able to provide lunch for all attendees.
