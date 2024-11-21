@@ -23,6 +23,11 @@ This project aims to enhance Radio Access Network (RAN) interoperability by brid
 
 The source code of the OSC RIC was modified to address interoperability issues encountered during its integration with the VIAVI tester. The modified OSC RIC was successfully integrated, and currently our xApp is able to fetch KPMs from the VIAVI tester.
 
+<video controls preload="auto" width="640" height="auto">
+  <source src="/vid/viavi-kpm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **Upcoming Work:**
 
 - Adding and testing RAN control functions.
