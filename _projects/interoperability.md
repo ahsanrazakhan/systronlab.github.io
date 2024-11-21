@@ -19,19 +19,15 @@ This project aims to enhance Radio Access Network (RAN) interoperability by brid
 #### 1. Commercial E2 Node (VIAVI Tester) with Open-Source RIC (OSC)
 
 **GitHub**: [uoy-research/oran-sc-ric-uoy](https://github.com/uoy-research/oran-sc-ric-uoy)<br>  
-**Status**: <span style="color: #A95938;">Ongoing</span>
+**Status**:
+Fetching KPMs: <span style="color: #609732;">Completed</span>
 
-The source code of the OSC RIC was modified to address interoperability issues encountered during its integration with the VIAVI tester. The modified OSC RIC was successfully integrated, and currently our xApp is able to fetch KPMs from the VIAVI tester.
+The source code of the OSC RIC was modified to address interoperability issues encountered during its integration with the VIAVI tester. The modified OSC RIC was successfully integrated, and currently our xApp is able to fetch KPMs from the VIAVI tester. Next, we will be working on implementing ran control functions.
 
 <video controls preload="auto" width="640" height="auto">
   <source src="/vid/viavi-kpm.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-**Upcoming Work:**
-
-- Adding and testing RAN control functions.
-- Modifying the in-house developed small cell xApp to work with RAN control functions instead of the REST APIs it currently uses.
 
 ---
 
@@ -71,12 +67,6 @@ This setup can be used in labs without a radio license. No antennas are needed; 
 <img src="/img/usrp.png" alt="USRPs with COTS" >
 
 In this setup, we are utilizing srsRAN as our 5G core, along with two Ettus Research X310 USRPs equipped with an OctoClock-G. The configuration follows an 8-split architecture, featuring eight log-periodic antennas connected to two 2x2 MIMO base stations. Additionally, we have two commercial off-the-shelf (COTS) user equipment (UE) devices: one designed for enhanced mobile broadband (eMBB) and the other for ultra-reliable low-latency communications (URLLC).
-
----
-
-#### 3. Commercial E2 Node (VIAVI Tester) with Commercial RIC (IS Wireless)
-
-**Status**: <span style="color: #A95938;">Ongoing</span>
 
 ---
 
