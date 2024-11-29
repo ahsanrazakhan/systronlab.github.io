@@ -54,6 +54,8 @@ To update the site, simply follow the instructions in the rest of this document.
 
 
 <!-- ADDING AND UPDATING CONTENT -->
+All changes must be added through an approved Pull Request. To do this create a different branch either through the GitHub GUI or using `git branch [branch name]` and `git checkout [branch name]`, then opening a PR when you have finished committing your changes.
+
 ## Adding and Updating Content
 
 This site is primarily written using markdown. When you commit a new markdown file, it will automatically be processed by Jekyll into a webpage, making it incredibly simple to add new content.
