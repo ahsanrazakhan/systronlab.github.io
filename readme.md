@@ -110,6 +110,8 @@ Make a copy of the template `_projects/template.md` and complete the mandatory f
 You can optionally add:
  - `image`, the path to an image associated with the project.
 
+All changes must be added through an approved Pull Request. To do this create a different branch either through the GitHub GUI or using `git branch [branch name]` and `git checkout [branch name]`, then opening a PR when you have finished committing your changes.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MODIFYING THE TEMPLATE -->
