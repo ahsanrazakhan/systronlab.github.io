@@ -24,7 +24,7 @@ Fetching KPMs: <span style="color: #609732;">Completed</span>
 
 The source code of the OSC RIC was modified to address interoperability issues encountered during its integration with the VIAVI tester. The modified OSC RIC was successfully integrated, and currently our xApp is able to fetch KPMs from the VIAVI tester. Next, we will be working on implementing ran control functions.
 
-<video controls preload="auto" width="640" height="auto">
+<video controls preload="auto" style="width: 100%; height: auto;">
   <source src="/vid/viavi-kpm.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -50,7 +50,7 @@ Step-by-step instructions for setting up the project with various configurations
 ##### 2.2 Over-the-Air (OTA) Setup
 
 **GitHub**: [uoy-research/srsRAN-USRPs-OTA](https://github.com/uoy-research/srsRAN-USRPs-OTA)<br>  
-**Status**: <span style="color: #A95938;">Ongoing</span> (Completion by the end of November 2024)
+**Status**: <span style="color: #A95938;">Ongoing</span>
 
 <img src="/img/ota.png" alt="Over-the-Air (OTA) Setup" >
 <p><em>Image credit: <a href="https://www.srsran.com/" target="_blank">srsRAN project</a></em></p>
@@ -62,7 +62,7 @@ This setup can be used in labs without a radio license. No antennas are needed; 
 ##### 2.3 USRPs with Commercial Off-The-Shelf (COTS) UEs
 
 **GitHub**: [uoy-research/srsRAN-USRPs-COTS](https://github.com/uoy-research/srsRAN-USRPs-COTS)<br>  
-**Status**: <span style="color: #A95938;">Ongoing</span> (Completion by the end of December 2024)
+**Status**: <span style="color: #A95938;">Ongoing</span>
 
 <img src="/img/usrp.png" alt="USRPs with COTS" >
 
