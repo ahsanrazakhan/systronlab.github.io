@@ -5,7 +5,7 @@ date: 2025-01-21 12:00:00 +0000
 authors:
 - Ahsan Raza Khan
 - Poonam Yadav 
-venue: "IEEE Wireless Communications and Networking Conference (WCNC) 2025"
+venue: "IEEE Wireless Communications and Networking Conference (WCNC) March 2025"
 link: 'https://drive.google.com/file/d/1KJlI1Cu_dNV169JW1HxeQ3dNdf2WNNKZ/view?usp=sharing'
 ---
 
